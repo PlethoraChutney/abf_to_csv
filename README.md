@@ -7,6 +7,6 @@ and analysis. A wrapper around the excellent
 `python3 -m pip install -r requirements.txt`
 
 ## Usage
-Run the script with an input glob (something like "*.abf" or "data/*.abf").
+Run the script with an input glob (something like `*.abf` or `data/*.abf`).
 Optionally you can tell it which channels correspond to Voltage, Current, or Barrel.
 The Baconguis Lab defaults are set.
